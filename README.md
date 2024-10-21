@@ -41,6 +41,8 @@ La aplicación contará con una interfaz sencilla y consta de esta estructura:
 3. **Pantalla de carrito de compras**: Visualiza los productos seleccionados y opciones de pago (caería la notificación por correo electrónico)
 4. **Pantalla de favoritos**: Muestra la lista de productos guardados por el usuario.
 
+![](https://files.catbox.moe/1w3c2v.png)
+
 ## Tecnologías a Emplear
 
 - **Lenguaje de Programación**: Dart
